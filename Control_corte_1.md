@@ -19,5 +19,9 @@ El control de movimiento tiene numerosas aplicaciones en diferentes sectores ind
 
 
 ## Control 
-Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos llegar a controlar la posicion, velocidad, torque y aceleracion 
+Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos llegar a controlar la posicion, velocidad, torque y aceleracion. hoy en dia a estos sistemas que ya disponen de componentes electricos para este control se les conoce como Electronic Gearing for Coordination.
 >🔑Ejes: Cada movimiento que genere un actuador
+
+## Mechanical Coordination?
+Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos funcionaban con un enfoque netamente mecanico, en ejemplo claro puede ser el de una maquina dobladora.
+
