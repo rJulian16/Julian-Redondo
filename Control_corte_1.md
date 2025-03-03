@@ -16,7 +16,7 @@ El control de movimiento tiene numerosas aplicaciones en diferentes sectores ind
 
   
 ![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/abe909142868ea1a72b4dbb324c5f03a2cc653d5/imagenes/image.png)
-
+Figura 1. Aplicacion en una impresora.
 
 ## Control 
 Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos llegar a controlar la posicion, velocidad, torque y aceleracion. hoy en dia a estos sistemas que ya disponen de componentes electricos para este control se les conoce como Electronic Gearing for Coordination.
@@ -26,6 +26,7 @@ Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos l
 Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos funcionaban con un enfoque netamente mecanico, en ejemplo claro puede ser el de una maquina dobladora.
 
 ![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/8518986bedbcc49659c6c8e217c4ea87f4bd3676/imagenes/imagen2.png)
+Figura 2. Maquina dobladora.
 
 Donde solo habia tanto un motor como un eje grande y funcionaba con diferentes sistemas de transmision, el problema de esto era que requieren de un mantenimiento muy complejo y era muy costoso
 
@@ -39,6 +40,7 @@ Hoy en día, el control de movimiento se realiza con sistemas eléctricos que em
 - **Retroalientacion**
 
 ![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/91a7053123d407a8fb6e64a683a78234b31bb201/imagenes/imagen3.png)
+Figura 3. esquema de bloques.
 
 **Caracteristicas de control**: Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, esta fuerza negativa provoca cambios en la velocidad, a esto se le llama offset para ello es necesario controlar el offset para reducirlo lo mas que se pueda ya que esto es una perturbación.
 
@@ -46,3 +48,5 @@ Los componentes de nuestro sistema deben ser bien diseñados ya que la dinamica 
 La siguiente imagen muestra el esquema de control cascada para un sistema. 
 
 ![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/47e8d28bad58947eca1144ee7dc2b676695503c4/imagenes/imagen4.png)
+Figura 4. control cascada.
+
