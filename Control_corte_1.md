@@ -21,7 +21,9 @@ Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos l
 ### 3.1 Mechanical Coordination?
 Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos funcionaban con un enfoque netamente mecanico, en ejemplo claro puede ser el de una maquina de impresion.
 
-![image](https://github.com/user-attachments/assets/2a6b03cf-1650-4b98-85f2-ccc1119cbceb)
+
+![image](https://github.com/user-attachments/assets/893c3501-8367-41f8-ade2-7408f0ff9eec)
+
 
 
 
