@@ -38,3 +38,4 @@ Hoy en día, el control de movimiento se realiza con sistemas eléctricos que em
 - **Mecanismos de transmision**
 - **Retroalientacion**
 
+![Figura de ejemplo]()
