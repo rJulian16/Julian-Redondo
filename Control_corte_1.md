@@ -45,7 +45,8 @@ Hoy en día, el control de movimiento se realiza con sistemas eléctricos que em
 
 Figura 3. esquema de bloques.
 
-### 3.3 Caracteristicas de control: Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, esta fuerza negativa provoca cambios en la velocidad, a esto se le llama offset para ello es necesario controlar el offset para reducirlo lo mas que se pueda ya que esto es una perturbación.
+### 3.3 Caracteristicas de control: 
+Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, esta fuerza negativa provoca cambios en la velocidad, a esto se le llama offset para ello es necesario controlar el offset para reducirlo lo mas que se pueda ya que esto es una perturbación.
 
 Los componentes de nuestro sistema deben ser bien diseñados ya que la dinamica de estos sistemas son muy rapidos y necesitamos componentes que tengan propositos de eficiencia y productividad para la electronica y el motor
 La siguiente imagen muestra el esquema de control cascada para un sistema. 
@@ -58,7 +59,7 @@ Figura 4. control cascada.
 
 Figura 5. control cascada diagrama.
 
-## 3.4 Tipos de controladores
+### 3.4 Tipos de controladores
 C1 y C2 son los controladores, donde C2 es nas rapido que C1, para este controlador podemos usar un PI o proporcional para evitar que se ralentice, a este controlador tambien se le llama interno o secundario.
 A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI o PID, a este controlador tambien se le llama externo o primario. 
 
@@ -67,12 +68,12 @@ A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI 
 - Donde hay varibales mas rapidas que la variables controlada
 - Donde se desea hacer la dinamica lo mas rapida posible
 
-## Metodos de sintonizacion
+## 4. Metodos de sintonizacion
 - **Metodos empiricos de lazo abierto y cerrado**
 - **Metodos basados en modelos rigurosos**
 - **Metodos basados en inteligencia computacional**
 
-## Metodologias empiricas de lazo abierto 
+### 4.1 Metodologias empiricas de lazo abierto 
 -**Sintonizacion Lazo Abierto**:
 - Aplicar pruebas de lazo abierto a cada una de las variables delcontrol cascada
 - Con estas pruebas se puede sintonizar por alguno de los metodos conocidos los controladores
