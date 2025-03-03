@@ -26,3 +26,7 @@ Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos l
 Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos funcionaban con un enfoque netamente mecanico, en ejemplo claro puede ser el de una maquina dobladora.
 
 ![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/8518986bedbcc49659c6c8e217c4ea87f4bd3676/imagenes/imagen2.png)
+
+Donde solo habia tanto un motor como un eje grande y funcionaba con diferentes sistemas de transmision, el problema de esto era que requieren de un mantenimiento muy complejo y era muy costoso
+
+
