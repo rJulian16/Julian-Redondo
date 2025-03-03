@@ -52,7 +52,8 @@ Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, 
 Los componentes de nuestro sistema deben ser bien diseñados ya que la dinamica de estos sistemas son muy rapidos y necesitamos componentes que tengan propositos de eficiencia y productividad para la electronica y el motor
 La siguiente imagen muestra el esquema de control cascada para un sistema. 
 
-![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/47e8d28bad58947eca1144ee7dc2b676695503c4/imagenes/imagen4.png)
+![image](https://github.com/user-attachments/assets/aa3d4dba-4e69-4159-9b7b-8a3e85bf04fa)
+
 
 Figura 4. control cascada.
 
