@@ -50,3 +50,5 @@ La siguiente imagen muestra el esquema de control cascada para un sistema.
 ![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/47e8d28bad58947eca1144ee7dc2b676695503c4/imagenes/imagen4.png)
 Figura 4. control cascada.
 
+![image](https://github.com/user-attachments/assets/775149ce-9d29-4def-bc16-48ae113a6522)
+Figura 5. control cascada diagrama.
