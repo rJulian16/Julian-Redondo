@@ -1,9 +1,9 @@
 # Control de Movimiento
 Julian Redondo & Sebastian Cifuentes & David Vasquez
-## Que es?
+## 1. Que es?
 El control de movimiento es una tecnología utilizada para gestionar y dirigir el movimiento de máquinas y dispositivos. Este sistema es esencial en procesos industriales, permitiendo precisión y eficiencia en la operación de equipos. 
 
-## Aplicaciones del Control de Movimiento
+## 2. Aplicaciones del Control de Movimiento
 
 El control de movimiento tiene numerosas aplicaciones en diferentes sectores industriales, incluyendo:
 
@@ -19,11 +19,11 @@ El control de movimiento tiene numerosas aplicaciones en diferentes sectores ind
 
 Figura 1. Aplicacion en una impresora.
 
-## Control 
+## 3. Control 
 Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos llegar a controlar la posicion, velocidad, torque y aceleracion. hoy en dia a estos sistemas que ya disponen de componentes electricos para este control se les conoce como Electronic Gearing for Coordination.
 >🔑Ejes: Cada movimiento que genere un actuador
 
-## Mechanical Coordination?
+### 3.1 Mechanical Coordination?
 Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos funcionaban con un enfoque netamente mecanico, en ejemplo claro puede ser el de una maquina dobladora.
 
 ![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/8518986bedbcc49659c6c8e217c4ea87f4bd3676/imagenes/imagen2.png)
@@ -32,7 +32,7 @@ Figura 2. Maquina dobladora.
 
 Donde solo habia tanto un motor como un eje grande y funcionaba con diferentes sistemas de transmision, el problema de esto era que requieren de un mantenimiento muy complejo y era muy costoso
 
-## El Ahora
+### 3.2 El Ahora
 Hoy en día, el control de movimiento se realiza con sistemas eléctricos que emplean múltiples motores y ejes para optimizar los procesos en diversas aplicaciones. Estos sistemas son generalmente más económicos y requieren un mantenimiento más sencillo. A continuación, se mencionan los diferentes componentes  que los conforman.
 - **HMI**
 - **Control de movimiento**
@@ -45,7 +45,7 @@ Hoy en día, el control de movimiento se realiza con sistemas eléctricos que em
 
 Figura 3. esquema de bloques.
 
-**Caracteristicas de control**: Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, esta fuerza negativa provoca cambios en la velocidad, a esto se le llama offset para ello es necesario controlar el offset para reducirlo lo mas que se pueda ya que esto es una perturbación.
+### 3.3 Caracteristicas de control: Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, esta fuerza negativa provoca cambios en la velocidad, a esto se le llama offset para ello es necesario controlar el offset para reducirlo lo mas que se pueda ya que esto es una perturbación.
 
 Los componentes de nuestro sistema deben ser bien diseñados ya que la dinamica de estos sistemas son muy rapidos y necesitamos componentes que tengan propositos de eficiencia y productividad para la electronica y el motor
 La siguiente imagen muestra el esquema de control cascada para un sistema. 
@@ -58,7 +58,7 @@ Figura 4. control cascada.
 
 Figura 5. control cascada diagrama.
 
-## Tipos de controladores
+## 3.4 Tipos de controladores
 C1 y C2 son los controladores, donde C2 es nas rapido que C1, para este controlador podemos usar un PI o proporcional para evitar que se ralentice, a este controlador tambien se le llama interno o secundario.
 A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI o PID, a este controlador tambien se le llama externo o primario. 
 
