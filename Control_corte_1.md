@@ -29,7 +29,7 @@ Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos 
 
 Donde solo habia tanto un motor como un eje grande y funcionaba con diferentes sistemas de transmision, el problema de esto era que requieren de un mantenimiento muy complejo y era muy costoso
 
-## el Ahora
+## El Ahora
 Hoy en día, el control de movimiento se realiza con sistemas eléctricos que emplean múltiples motores y ejes para optimizar los procesos en diversas aplicaciones. Estos sistemas son generalmente más económicos y requieren un mantenimiento más sencillo. A continuación, se mencionan los diferentes componentes  que los conforman.
 - **HMI**
 - **Control de movimiento**
@@ -39,3 +39,10 @@ Hoy en día, el control de movimiento se realiza con sistemas eléctricos que em
 - **Retroalientacion**
 
 ![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/91a7053123d407a8fb6e64a683a78234b31bb201/imagenes/imagen3.png)
+
+**Caracteristicas de control**: Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, esta fuerza negativa provoca cambios en la velocidad, a esto se le llama offset para ello es necesario controlar el offset para reducirlo lo mas que se pueda ya que esto es una perturbación.
+
+Los componentes de nuestro sistema deben ser bien diseñados ya que la dinamica de estos sistemas son muy rapidos y necesitamos componentes que tengan propositos de eficiencia y productividad para la electronica y el motor
+La siguiente imagen muestra el esquema de control cascada para un sistema. 
+
+
