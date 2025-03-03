@@ -29,4 +29,12 @@ Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos 
 
 Donde solo habia tanto un motor como un eje grande y funcionaba con diferentes sistemas de transmision, el problema de esto era que requieren de un mantenimiento muy complejo y era muy costoso
 
+## el Ahora
+Hoy en día, el control de movimiento se realiza con sistemas eléctricos que emplean múltiples motores y ejes para optimizar los procesos en diversas aplicaciones. Estos sistemas son generalmente más económicos y requieren un mantenimiento más sencillo. A continuación, se mencionan los diferentes componentes  que los conforman.
+- **HMI**
+- **Control de movimiento**
+- **Drivers**
+- **Actuadores**
+- **Mecanismos de transmision**
+- **Retroalientacion**
 
