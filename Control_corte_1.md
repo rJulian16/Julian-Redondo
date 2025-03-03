@@ -26,7 +26,8 @@ Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos l
 ### 3.1 Mechanical Coordination?
 Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos funcionaban con un enfoque netamente mecanico, en ejemplo claro puede ser el de una maquina dobladora.
 
-![Figura de ejemplo](https://github.com/rJulian16/Julian-Redondo/blob/8518986bedbcc49659c6c8e217c4ea87f4bd3676/imagenes/imagen2.png)
+![image](https://github.com/user-attachments/assets/841d8470-b65e-4cd5-ba48-78f07448d355)
+
 
 Figura 2. Maquina dobladora.
 
