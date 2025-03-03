@@ -13,7 +13,7 @@ El control de movimiento tiene numerosas aplicaciones en diferentes sectores ind
 - **Maquinaria**: Imprescindible en maquinarias industriales para la automatización de procesos complejos y repetitivos.
 - **Electrónica**: En la producción de dispositivos electrónicos, controla el posicionamiento de componentes en las placas de circuito.
 - **Semiconductores**: Utilizado en la fabricación de semiconductores para manejar la precisión extrema requerida en los procesos de litografía y ensamblaje.
-
+![Figura de ejemplo]()
 ## Control 
 Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos llegar a controlar la posicion, velocidad, torque y aceleracion 
 >🔑Ejes: Cada movimiento que genere un actuador
