@@ -90,16 +90,16 @@ Como otros controladores los controladores cascada pueden ser sintonizados con m
 - Con el lazo secundario cerrado se realizan las pruebas midiendo la variable del lazo primario (y1).
 - Finalmente se sintoniza el controlador del lazo primario.
 
-### 4.2 Metodología empírica de lazo abierto Austin
+#### 4.1.1 Metodología empírica de lazo abierto Austin
 Austin desarrollo un método por el cual se pueden sintonizar el lazo primario mediante ecuaciones después de hacer sintonizado el lazo secundario.
 
 - Se realizan las pruebas en lazo abierto y se miden ambas salidas de los lazos.
 - Con la respuesta del lazo secundario se utiliza para ganancia (k2), la constante de tiempo (t2) y el tiempo muerto (to2). Y la respuesta del lazo primario también se utiliza para calcular la ganancia la ganancia (k1), la constante de tiempo (t1) y el tiempo de largo (to1).
 - Y mediante las ecuaciones de la tabla se sintoniza ambos lazos.
 
-## 5 Metodologias empiricas de lazo cerrado
+### 4.2 Metodologias empiricas de lazo cerrado
 
-### 5.1 Metodología empírica de lazo cerrado Hang
+#### 4.2.1 Metodología empírica de lazo cerrado Hang
 
 Este método propone sintonizar ambos lazos por medio de pruebas de rele sobre estos, a comparacion de una prueba de rele normal, vamos a realirle la prueba a ambos lazos.
 
@@ -116,3 +116,5 @@ Donde a es la amplitud de la variable de lazo y d es el valor de la histéresis 
 
 - Se procede a calcular por medio de la tabla los valores para los controladores.
 - Se cierra el lazo secundario y se procede a repetir los anteriores pasos para el lazo primario.
+
+## 5. Actuadores
