@@ -234,12 +234,12 @@ Existe dos tipos de sensores de corriente:
 
  - Shunt: Una resistencia muy pequeña para tomar la tensión en esta y aplicar ley de ohm.
    
-   ![image](https://github.com/user-attachments/assets/5025f3ec-2f03-4ef9-b100-6ccd72ff6126)
+![image](https://github.com/user-attachments/assets/7d969f6b-ef88-418f-b2db-044a28aa0b00)
 
    Figura 11. Shunt.
 
  - Efecto Hall: Es un sensor que detecta cambios de campo magnético y por ley de inducción de Faraday se puede obtener la corriente.
 
-   ![image](https://github.com/user-attachments/assets/635f3993-2325-4cf6-b458-dcfa861e5909)
+![image](https://github.com/user-attachments/assets/715dc556-eff9-404a-b0a3-b16d68c9f979)
 
    Figura 12. Hall.
