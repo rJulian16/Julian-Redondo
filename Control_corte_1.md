@@ -48,9 +48,6 @@ Hoy en día, el control de movimiento se realiza con sistemas eléctricos que em
 - **Mecanismos de transmision**
 - **Retroalientacion**
 
-![image](https://github.com/user-attachments/assets/663787f6-ecc7-41af-9c29-40eb915062c3)
-
-Figura 3. esquema de bloques.
 
 ### 3.3 Caracteristicas de control: 
 Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, esta fuerza negativa provoca cambios en la velocidad, a esto se le llama offset para ello es necesario controlar el offset para reducirlo lo mas que se pueda ya que esto es una perturbación.
@@ -61,11 +58,11 @@ La siguiente imagen muestra el esquema de control cascada para un sistema.
 ![image](https://github.com/user-attachments/assets/aa3d4dba-4e69-4159-9b7b-8a3e85bf04fa)
 
 
-Figura 4. control cascada.
+Figura 3. control cascada.
 
 ![image](https://github.com/user-attachments/assets/775149ce-9d29-4def-bc16-48ae113a6522)
 
-Figura 5. control cascada diagrama.
+Figura 4. control cascada diagrama.
 
 ### 3.4 Tipos de controladores
 C1 y C2 son los controladores, donde C2 es nas rapido que C1, para este controlador podemos usar un PI o proporcional para evitar que se ralentice, a este controlador tambien se le llama interno o secundario.
@@ -89,5 +86,5 @@ A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI 
 
 ![image](https://github.com/user-attachments/assets/d334f0c3-c245-4d2e-90ca-247be8cb5e05)
 
-Figura 6. sintonizacion lazo abierto.
+Figura 5. sintonizacion lazo abierto.
 
