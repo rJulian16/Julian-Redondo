@@ -204,7 +204,6 @@ Es posible simular el comportamiento de un motor, teniendo las características 
 
 #### 5.3.1 Encoders
 
-**Encoders:**
 Son sensores capaces de medir la posición y velocidad de, existen de dos tipos
 
 - Encoder absoluto
@@ -219,4 +218,13 @@ Son sensores capaces de medir la posición y velocidad de, existen de dos tipos
 
    Figura 9. Encoder incremental.
 
-  
+  #### 5.3.2 Resolver
+
+  Es un sensor analógico de posición angular, que consta de dos embobinados (rotor y estator), para posiciones relativas de uno con respecto al otro varia la amplitud que se induce en el rotor.
+
+![image](https://github.com/user-attachments/assets/93acffd1-f8a9-4b83-89e8-5debec5ec837)
+
+Figura 10. Resolver.
+
+
+
