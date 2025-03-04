@@ -17,6 +17,7 @@ El control de movimiento tiene numerosas aplicaciones en diferentes sectores ind
 El control de movimiento se aplica cuando el proceso requiere de varios movimientos al mismo tiempo y están sincronizados, con el objetivo de mejorar la eficiencia del proceso.
 
 ![image](https://github.com/user-attachments/assets/7fac3cf4-1559-4c6b-9e63-316432b3bb74)
+
 Figura 1. Maquina de impresion 3d actual.
 
 Un ejemplo muy visto actualmente son las impresoras 3d, las cuales utilizan varios servomotores para la inyección del plástico.
