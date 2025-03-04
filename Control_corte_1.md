@@ -200,4 +200,23 @@ En estas hay dos zonas principales en las gráficas, la primera llamada continua
 
 Es posible simular el comportamiento de un motor, teniendo las características electromagnéticas y mecánicas del motor. Validando la simulación por medio de las gráficas de torque y velocidad.
 
+### 5.3 Sensores en servomotores
 
+#### 5.3.1 Encoders
+
+**Encoders:**
+Son sensores capaces de medir la posición y velocidad de, existen de dos tipos
+
+- Encoder absoluto
+  
+  ![image](https://github.com/user-attachments/assets/1a0d794a-ecff-4b79-88ae-6d1f711a1cf2)
+  
+  Figura 8. Encoder absoluto.
+
+- Encoder incremental
+
+  ![image](https://github.com/user-attachments/assets/d9798887-2048-45d3-9993-ac769b5501ba)
+
+   Figura 9. Encoder incremental.
+
+  
