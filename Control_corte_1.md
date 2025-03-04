@@ -126,6 +126,7 @@ Servo proviene de la palabra latina "servos" que significa esclavo, esto hace me
 ##### 5.1.1 Motor DC
 
 ![image](https://github.com/user-attachments/assets/e322ecba-1531-43ad-b730-2ff4f1985e63)
+
 Figura 5. Servomotor DC.
 
 Motor que funciona con corriente directa que induce a la bobina del rotor un campo magnético que al interactuar con los imanes del estator produce el giro del rotor.
@@ -144,8 +145,43 @@ Motor que funciona con corriente directa que induce a la bobina del rotor un cam
 - No aplicable para altos torques
 - Sus imanes pueden sufrir desmagnetización con el tiempo.
 
-##### 5.1.1 Motor AC Sincrono
+##### 5.1.2 Motor AC Sincrono
 
 ![image](https://github.com/user-attachments/assets/218d4541-516b-4d11-9565-fa3dd28a8c09)
 
 Figura 6. Servomotor AC sincrono.
+
+Son maquinas eléctricas cuya velocidad de rotación está vinculada con la frecuencia de la red AC,lo que requiere de la sincronización de as señales de control, por esto se llaman síncronos.
+
+**Ventajas:**
+
+- Muy poco mantenimiento
+- Excelente resistencia al entorno
+- Compactos y ligeros
+- Alta eficiencia en todo tipo de aplicaciones
+
+**Desventajas:**
+
+- Control de dificultad intermedia
+- Se requiere respuesta 1:1 entre driver y motor
+- Sus imanes pueden sufrir desmagnetización con el tiempo
+
+##### 5.1.3 Motor AC Asincrono
+
+![image](https://github.com/user-attachments/assets/723a637f-404a-4d4e-b4e9-d98471d4c289)
+
+Figura 7. Servomotor AC Asincrono.
+
+**Ventajas:**
+
+- Poco mantenimiento
+- Excelente resistencia al entorno
+- Alta velocidad y alto torque
+- Alta eficiencia en aplicaciones grandes
+- Estructura robusta
+
+**Desventajas:**
+
+- Baja eficiencia en aplicaciones pequeñas
+- Control más complicado que el DC por las señales de potencia.
+- Puede sufrir cambios en sus características debido a temperaturas.
