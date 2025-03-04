@@ -263,4 +263,15 @@ Por estándar de la industria el control de los accionadores se hace por medio d
 
 ## 7. Conclusiones
 
+- Importancia del Control de Movimiento
+El control de movimiento es un pilar fundamental en la automatización industrial, permitiendo una mayor precisión, eficiencia y optimización de los procesos. Su evolución ha llevado a la integración de sistemas electrónicos avanzados, eliminando muchas de las limitaciones de los mecanismos puramente mecánicos.
+
+- Diferentes Tipos de Actuadores
+Existen diversos tipos de motores utilizados en el control de movimiento, como los servomotores de corriente continua (DC), motores síncronos y motores asíncronos. Cada uno tiene ventajas y desventajas dependiendo de la aplicación, siendo clave seleccionar el adecuado para cada caso.
+
+- Simulación y Modelado
+Herramientas como Simscape permiten realizar simulaciones detalladas del comportamiento de los sistemas de control de movimiento, facilitando el análisis y optimización antes de la implementación en entornos reales.
+
+## 8. Referencias
+
 
