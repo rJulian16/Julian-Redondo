@@ -15,7 +15,7 @@ El control de movimiento tiene numerosas aplicaciones en diferentes sectores ind
 - **Semiconductores**: Utilizado en la fabricación de semiconductores para manejar la precisión extrema requerida en los procesos de litografía y ensamblaje.
 
 ## 3. Control 
-Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos llegar a controlar la posicion, velocidad, torque y aceleracion. hoy en dia a estos sistemas que ya disponen de componentes electricos para este control se les conoce como Electronic Gearing for Coordination.
+Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos llegar a controlar la posicion, velocidad, torque, aceleracion con ayuda de algun piston o . hoy en dia a estos sistemas que ya disponen de componentes electricos para este control se les conoce como Electronic Gearing for Coordination. 
 >🔑Ejes: Cada movimiento que genere un actuador
 
 ### 3.1 Mechanical Coordination?
