@@ -95,6 +95,7 @@ Como otros controladores los controladores cascada pueden ser sintonizados con m
 - Se sintoniza el controlador del lazo secundario y se cierra el lazo.
 - Con el lazo secundario cerrado se realizan las pruebas midiendo la variable del lazo primario (y1).
 - Finalmente se sintoniza el controlador del lazo primario.
+- 
 ### Metodología empírica de lazo abierto Austin
 Austin desarrollo un método por el cual se pueden sintonizar el lazo primario mediante ecuaciones después de hacer sintonizado el lazo secundario.
 
