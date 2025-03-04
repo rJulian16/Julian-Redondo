@@ -192,7 +192,7 @@ Son graficas de torque contra velocidad angular que muestra el torque máximo qu
 
 ![image](https://github.com/user-attachments/assets/fdf56eb8-e9b2-468c-9829-138a2d398742)
 
-Figura 7. Zona de operacion de servomotores.
+Figura 8. Zona de operacion de servomotores.
 
 En estas hay dos zonas principales en las gráficas, la primera llamada continua es la zona de operación constante del motor, donde va a estar operativo la mayor parte del tiempo. La segunda llamada intermitente muestra los puntos de operación que puede alcanzar el motor en breves instantes.
 
@@ -210,13 +210,13 @@ Son sensores capaces de medir la posición y velocidad de, existen de dos tipos
   
   ![image](https://github.com/user-attachments/assets/1a0d794a-ecff-4b79-88ae-6d1f711a1cf2)
   
-  Figura 8. Encoder absoluto.
+  Figura 9. Encoder absoluto.
 
 - Encoder incremental
 
   ![image](https://github.com/user-attachments/assets/d9798887-2048-45d3-9993-ac769b5501ba)
 
-   Figura 9. Encoder incremental.
+   Figura 10. Encoder incremental.
 
   #### 5.3.2 Resolver
 
@@ -224,7 +224,7 @@ Son sensores capaces de medir la posición y velocidad de, existen de dos tipos
 
 ![image](https://github.com/user-attachments/assets/93acffd1-f8a9-4b83-89e8-5debec5ec837)
 
-Figura 10. Resolver.
+Figura 11. Resolver.
 
  #### 5.3.3 Sensor de torque
 
@@ -236,13 +236,13 @@ Existe dos tipos de sensores de corriente:
    
 ![image](https://github.com/user-attachments/assets/7d969f6b-ef88-418f-b2db-044a28aa0b00)
 
-   Figura 11. Shunt.
+   Figura 12. Shunt.
 
  - Efecto Hall: Es un sensor que detecta cambios de campo magnético y por ley de inducción de Faraday se puede obtener la corriente.
 
 ![image](https://github.com/user-attachments/assets/715dc556-eff9-404a-b0a3-b16d68c9f979)
 
-   Figura 12. Hall.
+   Figura 13. Hall.
 
 ### 5.4 Drivers de potencia
 
