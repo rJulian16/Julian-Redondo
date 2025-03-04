@@ -112,4 +112,8 @@ Figura 5. tabla sintonizacion Austin lazo abierto
 Figura 6. tabla sintonizacion Austin lazo abierto 2
 
 ## 5 Metodologias empiricas de lazo cerrado
-### 5.1 Metodología empírica de lazo abierto Austin
+
+### 5.1 Metodología empírica de lazo cerrado Hang
+
+Este método propone sintonizar ambos lazos por medio de pruebas de rele sobre estos, como se ve en la siguiente imagen.
+
