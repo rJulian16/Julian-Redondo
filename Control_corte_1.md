@@ -56,6 +56,7 @@ Los componentes de nuestro sistema deben ser bien diseñados ya que la dinamica 
 La siguiente imagen muestra el esquema de control cascada para un sistema. 
 
 ### 3.4 Control cascada
+Es un método de control el cual involucra varios lazos dentron de otros lazos y la salida de los controladores de los lazos externos son la entrada del siguiente lazo, como se puede ver en la siguiente imagen:
 
 ![image](https://github.com/user-attachments/assets/aa3d4dba-4e69-4159-9b7b-8a3e85bf04fa)
 
