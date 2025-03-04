@@ -118,3 +118,5 @@ Donde a es la amplitud de la variable de lazo y d es el valor de la histéresis 
 - Se cierra el lazo secundario y se procede a repetir los anteriores pasos para el lazo primario.
 
 ## 5. Actuadores
+
+### 5.1 
