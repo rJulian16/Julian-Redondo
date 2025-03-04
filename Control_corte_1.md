@@ -115,5 +115,10 @@ Figura 6. tabla sintonizacion Austin lazo abierto 2
 
 ### 5.1 Metodología empírica de lazo cerrado Hang
 
-Este método propone sintonizar ambos lazos por medio de pruebas de rele sobre estos, como se ve en la siguiente imagen.
+Este método propone sintonizar ambos lazos por medio de pruebas de rele sobre estos, a comparacion de una prueba de rele normal, vamos a realirle la prueba a ambos lazos.
+
+![image](https://github.com/user-attachments/assets/4bad72f3-c5eb-4728-a86b-d2c91f1e1584)
+
+Figura 7. tabla prueba rele.
+
 
