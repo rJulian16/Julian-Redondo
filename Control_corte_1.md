@@ -107,3 +107,7 @@ Austin desarrollo un método por el cual se pueden sintonizar el lazo primario m
 
 Figura 5. tabla sintonizacion Austin lazo abierto
 
+![image](https://github.com/user-attachments/assets/3c876789-32b4-4df8-9000-908802820911)
+
+Figura 6. tabla sintonizacion Austin lazo abierto 2
+
