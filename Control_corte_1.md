@@ -121,4 +121,5 @@ Este método propone sintonizar ambos lazos por medio de pruebas de rele sobre e
 
 Figura 7. tabla prueba rele.
 
-
+- Primero se realiza una prueba al lazo secundario, donde un rele activara y desactivara una señal de entrada.
+- Se mide el ciclo último (Wu) y la ganancia última (Ku), donde el ciclo último es el periodo entre picos de la variable de lazo y la ganancia ultima se calcula.
