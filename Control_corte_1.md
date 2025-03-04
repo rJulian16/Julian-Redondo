@@ -68,7 +68,8 @@ Este método se implementa cuando un proceso principal se ve alterado por pertur
 
 ### 3.5 Tipos de controladores
 
-![image](https://github.com/user-attachments/assets/775149ce-9d29-4def-bc16-48ae113a6522)
+![image](https://github.com/user-attachments/assets/0cfe162d-b10c-4444-bdb3-fbc8e259d337)
+
 
 Figura 4. control cascada diagrama.
 
