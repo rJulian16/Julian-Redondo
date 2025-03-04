@@ -119,4 +119,33 @@ Donde a es la amplitud de la variable de lazo y d es el valor de la histéresis 
 
 ## 5. Actuadores
 
-### 5.1 
+### 5.1 Servomotor
+
+Servo proviene de la palabra latina "servos" que significa esclavo, esto hace mención de la capacidad de cambiar una variable a un valor objetivo como lo hace un motor con las variables de posición, velocidad o torque.
+
+##### 5.1.1 Motor DC
+
+![image](https://github.com/user-attachments/assets/e322ecba-1531-43ad-b730-2ff4f1985e63)
+Figura 5. Servomotor DC.
+
+Motor que funciona con corriente directa que induce a la bobina del rotor un campo magnético que al interactuar con los imanes del estator produce el giro del rotor.
+
+**Ventajas:**
+
+- Control más simple.
+- Driver de potencia más simple.
+- Bajo precio en bajas capacidades.
+- Alta eficiencia en aplicaciones pequeñas.
+- 
+**Desventajas:**
+
+- Requiere mantenimiento e inspecciones periódicas.
+- Las escobillas están en constante abración
+- No aplicable para altos torques
+- Sus imanes pueden sufrir desmagnetización con el tiempo.
+
+##### 5.1.1 Motor AC Sincrono
+
+![image](https://github.com/user-attachments/assets/218d4541-516b-4d11-9565-fa3dd28a8c09)
+
+Figura 6. Servomotor AC sincrono.
