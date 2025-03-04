@@ -261,4 +261,3 @@ Por estándar de la industria el control de los accionadores se hace por medio d
 - iniciar archivo: smnew, este entrega 7 objetos, en dado caso que no, va a generar un error
 - Contiene 3 bloques principales que sirven para: configurar ecuaciones y su sintonizacion, configurar los ejes de coordenadas y configurar leyes fisicas.
 
-- 
