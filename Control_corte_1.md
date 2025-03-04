@@ -111,3 +111,5 @@ Figura 5. tabla sintonizacion Austin lazo abierto
 
 Figura 6. tabla sintonizacion Austin lazo abierto 2
 
+## 5 Metodologias empiricas de lazo cerrado
+### 5.1 Metodología empírica de lazo abierto Austin
