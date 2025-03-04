@@ -243,3 +243,22 @@ Existe dos tipos de sensores de corriente:
 ![image](https://github.com/user-attachments/assets/715dc556-eff9-404a-b0a3-b16d68c9f979)
 
    Figura 12. Hall.
+
+### 5.4 Drivers de potencia
+
+Es el elemento que recibe las señales de baja potencia (señales de control) y las amplifica a señales de alta potencia. Cada axis tiene un accionador y cada accionador posee su driver ya que los accionadores son los encargado de transformar energía eléctrica a mecánica lo que involucra un alto costo energético.
+
+Por estándar de la industria el control de los accionadores se hace por medio de señales PWM.
+
+## 6. Simscape
+- Es un entorno de simulacion para podelar sistemas en 3d
+- Formula y resuelve las ecuaciones de movimiento del sistema
+- Funciona mediante piezas rigidas
+
+### 6.1 Configuracion general
+- Sistemas tipicos ode 23, 45, 23t
+- Altas frecuencias 15s y 23s
+- iniciar archivo: smnew, este entrega 7 objetos, en dado caso que no, va a generar un error
+- Contiene 3 bloques principales que sirven para: configurar ecuaciones y su sintonizacion, configurar los ejes de coordenadas y configurar leyes fisicas.
+
+- 
