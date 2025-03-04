@@ -27,7 +27,7 @@ Antes del control como lo conocemos hoy en dia, estas maquinas o estos procesos 
 
 
 
-Figura 2. Maquina dobladora.
+Figura 2. Maquina de impresion.
 
 Donde solo habia tanto un motor como un eje grande y funcionaba con diferentes sistemas de transmision, el problema de esto era que requieren de un mantenimiento muy complejo y era muy costoso
 
