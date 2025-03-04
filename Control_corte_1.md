@@ -125,3 +125,8 @@ Figura 7. tabla prueba rele.
 - Se mide el ciclo último (Wu) y la ganancia última (Ku), donde el ciclo último es el periodo entre picos de la variable de lazo y la ganancia ultima se calcula.
 
 $$K_{u}= \frac{4d}{pia}$$
+
+Donde a es la amplitud de la variable de lazo y d es el valor de la histéresis del rele.
+
+- Se procede a calcular por medio de la tabla los valores para los controladores.
+- Se cierra el lazo secundario y se procede a repetir los anteriores pasos para el lazo primario.
