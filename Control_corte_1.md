@@ -61,13 +61,17 @@ Es un método de control el cual involucra varios lazos dentron de otros lazos y
 ![image](https://github.com/user-attachments/assets/aa3d4dba-4e69-4159-9b7b-8a3e85bf04fa)
 
 
-Figura 3. control cascada.
+Figura 3. control cascada, presentacion clase.
+
+Este método se implementa cuando un proceso principal se ve alterado por perturbaciones, generalmente más rápidas que el proceso principal. Por este motivo el control cascada es utilizado para el control de movimiento ya que todo movimmiento ejercido a una carga por tercera ley de Newton genera una fuerza opuesta al movimiento que altera la velocidad y finalmente la posición de la carga (al efecto se le llama offset). Al tomar esta fuerza como una perturbación es posible disminuir drásticamente e incluso eliminar su efecto en el proceso.
+
+
+### 3.5 Tipos de controladores
 
 ![image](https://github.com/user-attachments/assets/775149ce-9d29-4def-bc16-48ae113a6522)
 
 Figura 4. control cascada diagrama.
 
-### 3.5 Tipos de controladores
 C1 y C2 son los controladores, donde C2 es nas rapido que C1, para este controlador podemos usar un PI o proporcional para evitar que se ralentice, a este controlador tambien se le llama interno o secundario.
 A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI o PID, a este controlador tambien se le llama externo o primario. 
 
