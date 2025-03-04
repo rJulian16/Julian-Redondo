@@ -56,13 +56,7 @@ Los componentes de nuestro sistema deben ser bien diseñados ya que la dinamica 
 La siguiente imagen muestra el esquema de control cascada para un sistema. 
 
 ### 3.4 Control cascada
-Es un método de control el cual involucra varios lazos dentron de otros lazos y la salida de los controladores de los lazos externos son la entrada del siguiente lazo, como se puede ver en la siguiente imagen:
-
-![image](https://github.com/user-attachments/assets/aa3d4dba-4e69-4159-9b7b-8a3e85bf04fa)
-
-
-Figura 3. control cascada, presentacion clase.
-
+Es un método de control el cual involucra varios lazos dentron de otros lazos y la salida de los controladores de los lazos externos son la entrada del siguiente lazo.
 Este método se implementa cuando un proceso principal se ve alterado por perturbaciones, generalmente más rápidas que el proceso principal. Por este motivo el control cascada es utilizado para el control de movimiento ya que todo movimmiento ejercido a una carga por tercera ley de Newton genera una fuerza opuesta al movimiento que altera la velocidad y finalmente la posición de la carga (al efecto se le llama offset). Al tomar esta fuerza como una perturbación es posible disminuir drásticamente e incluso eliminar su efecto en el proceso.
 
 
@@ -71,7 +65,7 @@ Este método se implementa cuando un proceso principal se ve alterado por pertur
 ![image](https://github.com/user-attachments/assets/0cfe162d-b10c-4444-bdb3-fbc8e259d337)
 
 
-Figura 4. control cascada diagrama.
+Figura 3. control cascada diagrama.
 
 C1 o primario o  y C2 o secundario son los controladores, donde C2 es mas rapido que C1, para este controlador podemos usar un PI o proporcional para evitar que se ralentice, a este controlador tambien se le llama interno.
 A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI o PID, a este controlador tambien se le llama externo.
@@ -105,11 +99,11 @@ Austin desarrollo un método por el cual se pueden sintonizar el lazo primario m
 
 ![image](https://github.com/user-attachments/assets/6f3b85fc-cc29-49a1-a704-3c34f9e7548b)
 
-Figura 5. tabla sintonizacion Austin lazo abierto
+Figura 4. tabla sintonizacion Austin lazo abierto
 
 ![image](https://github.com/user-attachments/assets/3c876789-32b4-4df8-9000-908802820911)
 
-Figura 6. tabla sintonizacion Austin lazo abierto 2
+Figura 5. tabla sintonizacion Austin lazo abierto 2
 
 ## 5 Metodologias empiricas de lazo cerrado
 
@@ -119,7 +113,7 @@ Este método propone sintonizar ambos lazos por medio de pruebas de rele sobre e
 
 ![image](https://github.com/user-attachments/assets/4bad72f3-c5eb-4728-a86b-d2c91f1e1584)
 
-Figura 7. tabla prueba rele.
+Figura 6. tabla prueba rele.
 
 - Primero se realiza una prueba al lazo secundario, donde un rele activara y desactivara una señal de entrada.
 - Se mide el ciclo último (Wu) y la ganancia última (Ku), donde el ciclo último es el periodo entre picos de la variable de lazo y la ganancia ultima se calcula.
