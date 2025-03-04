@@ -98,7 +98,7 @@ Como otros controladores los controladores cascada pueden ser sintonizados con m
 ### Metodología empírica de lazo abierto Austin
 Austin desarrollo un método por el cual se pueden sintonizar el lazo primario mediante ecuaciones después de hacer sintonizado el lazo secundario.
 
-Se realizan las pruebas en lazo abierto y se miden ambas salidas de los lazos.
-Con la respuesta del lazo secundario se utiliza para ganancia (k2), la constante de tiempo (t2) y el tiempo muerto (to2). Y la respuesta del lazo primario también se utiliza para calcular la ganancia la ganancia (k1), la constante de tiempo (t1) y el tiempo de largo (to1).
-Y mediante las ecuaciones de la tabla se sintoniza ambos lazos.
+- Se realizan las pruebas en lazo abierto y se miden ambas salidas de los lazos.
+- Con la respuesta del lazo secundario se utiliza para ganancia (k2), la constante de tiempo (t2) y el tiempo muerto (to2). Y la respuesta del lazo primario también se utiliza para calcular la ganancia la ganancia (k1), la constante de tiempo (t1) y el tiempo de largo (to1).
+- Y mediante las ecuaciones de la tabla se sintoniza ambos lazos.
 
