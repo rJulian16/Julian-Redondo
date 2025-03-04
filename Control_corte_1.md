@@ -88,11 +88,11 @@ A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI 
 
 ### 4.1 Metodologias empiricas de lazo abierto 
 -**Sintonizacion Lazo Abierto**:
-- Aplicar pruebas de lazo abierto a cada una de las variables delcontrol cascada
-- Con estas pruebas se puede sintonizar por alguno de los metodos conocidos los controladores
-- Imporancia de tener en cuenta la sintonizacion en la interaccion entre los dos lazos.
+Como otros controladores los controladores cascada pueden ser sintonizados con métodos empíricos, siguiendo el siguiente procedimiento:
 
-![image](https://github.com/user-attachments/assets/d334f0c3-c245-4d2e-90ca-247be8cb5e05)
-
-Figura 5. sintonizacion lazo abierto.
+- Se abre el lazo en todo el sistema.
+- Se realizan las pruebas midiendo la variable del lazo secundario (y2).
+- Se sintoniza el controlador del lazo secundario y se cierra el lazo.
+- Con el lazo secundario cerrado se realizan las pruebas midiendo la variable del lazo primario (y1).
+- Finalmente se sintoniza el controlador del lazo primario.
 
