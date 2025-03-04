@@ -97,14 +97,6 @@ Austin desarrollo un método por el cual se pueden sintonizar el lazo primario m
 - Con la respuesta del lazo secundario se utiliza para ganancia (k2), la constante de tiempo (t2) y el tiempo muerto (to2). Y la respuesta del lazo primario también se utiliza para calcular la ganancia la ganancia (k1), la constante de tiempo (t1) y el tiempo de largo (to1).
 - Y mediante las ecuaciones de la tabla se sintoniza ambos lazos.
 
-![image](https://github.com/user-attachments/assets/6f3b85fc-cc29-49a1-a704-3c34f9e7548b)
-
-Figura 4. tabla sintonizacion Austin lazo abierto
-
-![image](https://github.com/user-attachments/assets/3c876789-32b4-4df8-9000-908802820911)
-
-Figura 5. tabla sintonizacion Austin lazo abierto 2
-
 ## 5 Metodologias empiricas de lazo cerrado
 
 ### 5.1 Metodología empírica de lazo cerrado Hang
@@ -113,7 +105,7 @@ Este método propone sintonizar ambos lazos por medio de pruebas de rele sobre e
 
 ![image](https://github.com/user-attachments/assets/4bad72f3-c5eb-4728-a86b-d2c91f1e1584)
 
-Figura 6. tabla prueba rele.
+Figura 4. tabla prueba rele.
 
 - Primero se realiza una prueba al lazo secundario, donde un rele activara y desactivara una señal de entrada.
 - Se mide el ciclo último (Wu) y la ganancia última (Ku), donde el ciclo último es el periodo entre picos de la variable de lazo y la ganancia ultima se calcula.
