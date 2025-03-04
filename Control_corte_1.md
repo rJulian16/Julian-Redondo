@@ -123,4 +123,5 @@ Figura 7. tabla prueba rele.
 
 - Primero se realiza una prueba al lazo secundario, donde un rele activara y desactivara una señal de entrada.
 - Se mide el ciclo último (Wu) y la ganancia última (Ku), donde el ciclo último es el periodo entre picos de la variable de lazo y la ganancia ultima se calcula.
-$$K_{u}= \frac{4d}{\pia}$$
+
+$$K_{u}= \frac{4d}{pia}$$
