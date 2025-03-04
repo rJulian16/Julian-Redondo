@@ -194,3 +194,10 @@ Son graficas de torque contra velocidad angular que muestra el torque máximo qu
 
 Figura 7. Zona de operacion de servomotores.
 
+En estas hay dos zonas principales en las gráficas, la primera llamada continua es la zona de operación constante del motor, donde va a estar operativo la mayor parte del tiempo. La segunda llamada intermitente muestra los puntos de operación que puede alcanzar el motor en breves instantes.
+
+**Simulaciones**
+
+Es posible simular el comportamiento de un motor, teniendo las características electromagnéticas y mecánicas del motor. Validando la simulación por medio de las gráficas de torque y velocidad.
+
+
