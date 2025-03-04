@@ -14,6 +14,13 @@ El control de movimiento tiene numerosas aplicaciones en diferentes sectores ind
 - **Electrónica**: En la producción de dispositivos electrónicos, controla el posicionamiento de componentes en las placas de circuito.
 - **Semiconductores**: Utilizado en la fabricación de semiconductores para manejar la precisión extrema requerida en los procesos de litografía y ensamblaje.
 
+El control de movimiento se aplica cuando el proceso requiere de varios movimientos al mismo tiempo y están sincronizados, con el objetivo de mejorar la eficiencia del proceso.
+
+![image](https://github.com/user-attachments/assets/7fac3cf4-1559-4c6b-9e63-316432b3bb74)
+Figura 1. Maquina de impresion 3d actual.
+
+Un ejemplo muy visto actualmente son las impresoras 3d, las cuales utilizan varios servomotores para la inyección del plástico.
+
 ## 3. Control 
 Los sistemas contienen multiples ejes a controlar, donde a cada eje le podemos llegar a controlar la posicion, velocidad, torque, aceleracion con ayuda de algun piston o servomotor. hoy en dia a estos sistemas que ya disponen de componentes electricos para este control se les conoce como Electronic Gearing for Coordination. 
 >🔑Ejes: Cada movimiento que genere un actuador
