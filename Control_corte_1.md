@@ -185,3 +185,12 @@ Figura 7. Servomotor AC Asincrono.
 - Baja eficiencia en aplicaciones pequeñas
 - Control más complicado que el DC por las señales de potencia.
 - Puede sufrir cambios en sus características debido a temperaturas.
+
+### 5.2 Zonas de operación de servomotores
+
+Son graficas de torque contra velocidad angular que muestra el torque máximo que puede ejercer un motor al tener cierta velocidad angular. Cada fabricante provee estos datos de operatividad.
+
+![image](https://github.com/user-attachments/assets/fdf56eb8-e9b2-468c-9829-138a2d398742)
+
+Figura 7. Zona de operacion de servomotores.
+
