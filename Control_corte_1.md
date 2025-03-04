@@ -55,6 +55,8 @@ Un movimiento sobre una carga genera una fuerza negativa ejercida por el motor, 
 Los componentes de nuestro sistema deben ser bien diseñados ya que la dinamica de estos sistemas son muy rapidos y necesitamos componentes que tengan propositos de eficiencia y productividad para la electronica y el motor
 La siguiente imagen muestra el esquema de control cascada para un sistema. 
 
+### 3.4 Control cascada
+
 ![image](https://github.com/user-attachments/assets/aa3d4dba-4e69-4159-9b7b-8a3e85bf04fa)
 
 
@@ -64,7 +66,7 @@ Figura 3. control cascada.
 
 Figura 4. control cascada diagrama.
 
-### 3.4 Tipos de controladores
+### 3.5 Tipos de controladores
 C1 y C2 son los controladores, donde C2 es nas rapido que C1, para este controlador podemos usar un PI o proporcional para evitar que se ralentice, a este controlador tambien se le llama interno o secundario.
 A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI o PID, a este controlador tambien se le llama externo o primario. 
 
