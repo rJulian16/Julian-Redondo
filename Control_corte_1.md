@@ -73,8 +73,8 @@ Este método se implementa cuando un proceso principal se ve alterado por pertur
 
 Figura 4. control cascada diagrama.
 
-C1 y C2 son los controladores, donde C2 es nas rapido que C1, para este controlador podemos usar un PI o proporcional para evitar que se ralentice, a este controlador tambien se le llama interno o secundario.
-A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI o PID, a este controlador tambien se le llama externo o primario. 
+C1 o primario o  y C2 o secundario son los controladores, donde C2 es mas rapido que C1, para este controlador podemos usar un PI o proporcional para evitar que se ralentice, a este controlador tambien se le llama interno.
+A C1 s ele debe de eliminar el error de estado estacionarios, este puede ser PI o PID, a este controlador tambien se le llama externo.
 
 **Aplicaciones**
 - Donde hay perturbaciones que afectan el funcionamiento
