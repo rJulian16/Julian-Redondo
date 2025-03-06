@@ -1,5 +1,5 @@
 # Control de Movimiento
-Julian Redondo & Sebastian Cifuentes & David Vasquez
+Julian Stiven Redondo Chacon & Sebastian Cifuentes Alfonso & David Esteban Vasquez Alarcon
 ## 1. Que es?
 El control de movimiento es una tecnología utilizada para gestionar y dirigir el movimiento de máquinas y dispositivos. Este sistema es esencial en procesos industriales, permitiendo precisión y eficiencia en la operación de equipos. 
 
