@@ -274,4 +274,10 @@ Herramientas como Simscape permiten realizar simulaciones detalladas del comport
 
 ## 8. Referencias
 
-
+[1] J. Cote, Digital Control, GitHub repository, 2024. [Online]. Available: https://github.com/jorgecote/DigtalControl.
+[2] K. Ogata, Ingeniería de control moderna, 5ª ed. Madrid, España: Pearson, 2010.
+[3] S. J. Chapman, Máquinas eléctricas, 4ª ed. Madrid, España: McGraw-Hill Interamericana, 2005.
+[4] J. Serrano Iribarnegaray, Fundamentos de máquinas eléctricas rotativas. Barcelona, España: Marcombo, 1989.
+[5] C.-T. Chen, Diseño de sistemas de control analógicos y digitales. México: Pearson, 2004.
+[6] K. J. Åström y T. Hägglund, Controladores PID: Teoría, diseño y sintonización. Madrid, España: Pearson, 1995.
+[7] E. Papadopoulos y G. Chasparis, “Analysis and model-based control of servomechanisms with friction,” Proceedings of the 2002 IEEE International Conference on Control Applications, 2002, pp. 782-787.
